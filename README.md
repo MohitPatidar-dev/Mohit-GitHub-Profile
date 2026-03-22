@@ -1,58 +1,31 @@
-# ⚡ SESSION_ACCESS: @the-mohit-patidar ⚡
-
+# <p align="center">🚀 SYSTEM_STATUS: ONLINE</p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=INITIALIZING+SECURE+LINK...;ACCESSING+MINDPATH+MAINFRAME...;SENIOR+ENGINEER+IDENTIFIED;HELLO+MOHIT+PATIDAR" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=INIT+MOHIT_PATIDAR.sh;ACCESSING+MINDPATH+MAINFRAME...;SENIOR+FULL+STACK+ENGINEER;OPEN+FINANCE+SPECIALIST" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://mohitpatidar-dev.github.io/MohitPatidar-dev/">
-    <img src="https://img.shields.io/badge/LIVE_PORTFOLIO-00FF41?style=for-the-badge&logo=opsgenie&logoColor=black" alt="Portfolio Shield" />
+    <img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-000000?style=for-the-badge&logo=target&logoColor=00FF41" />
   </a>
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE-00FF41?style=for-the-badge" alt="Status Shield" />
+  <a href="mailto:mohitp2001295@gmail.com">
+    <img src="https://img.shields.io/badge/SEND_SIGNAL-000000?style=for-the-badge&logo=minutemail&logoColor=00FF41" />
+  </a>
 </p>
 
 ---
 
-### 📂 LOG_FILE: USER_DATA.sh
-* [cite_start]**Current Role:** Senior Software Developer at Mindpath Tech Pvt Ltd.
-* [cite_start]**Location:** Indore, M.P., India.
-* [cite_start]**Core Mission:** Architecting scalable React/Node.js ecosystems and Open Finance solutions.
-* [cite_start]**Education:** B.Tech in Computer Software Engineering (GPA: 7.91).
+### ⚡ ROOT@SYSTEM:~/PROFESSIONAL_LOGS
+> **Senior Software Developer** with 3+ years of experience crafting high-performance ecosystems. Specialist in the **React ecosystem** and **Modern Frontend Architecture**, currently driving engineering excellence at **Mindpath Tech**.
+
+* **Current Focus:** Leading architecture for **UAE Open Finance Standards (v2.1)**.
+* **Education:** B.Tech in Computer Software Engineering (GPA: 7.91).
+* **Location:** Indore, India.
 
 ---
 
-### 💻 TECH_DECK (Encrypted)
-| LAYER | TECHNOLOGIES |
-| :--- | :--- |
-| **FRONTEND** | [cite_start]React.js, Next.js, Angular, TypeScript, Tailwind CSS  |
-| **BACKEND** | [cite_start]Node.js, Express, REST & GraphQL APIs  |
-| **DATABASE** | [cite_start]Azure SQL, PostgreSQL, MySQL, Oracle DB, MongoDB  |
-| **DEVOPS** | [cite_start]Docker, Git/GitHub, Vercel, Supabase  |
-
----
-
-### ⚡ ACTIVE_MISSION_LOGS
-* [cite_start]**🏦 UAE Open Finance (v2.1):** Developing full-stack consent modules for banks and insurers.
-* [cite_start]**🤖 YouChooseWork:** AI Chat Bot & childcare staffing platform via Microsoft Bot Framework.
-* [cite_start]**🛒 SSR E-Commerce:** High-performance storefront built with Next.js, GraphQL, and Strapi.
-* [cite_start]**🏨 Hotel Dashboard:** Business tracking system using Angular and Ag-Grid.
-
----
-
-### 📈 SYSTEM_STATS
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=the-mohit-patidar&theme=matrix&show_icons=true&hide_border=true" alt="Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=the-mohit-patidar&theme=matrix&hide_border=true" alt="Streak" />
-</p>
-
----
-
-### 🕹️ FUN_STUFF.exe
-* [cite_start]**Favorite Command:** `docker-compose up --build` (The sound of progress).
-* [cite_start]**Hacker Level:** Mentoring juniors on code quality and reusable patterns.
-* [cite_start]**Quote:** *"Passionate about crafting clean, performant, and user-centric digital experiences."*.
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer" />
-</p>
+### 🛠️ KERNEL_MODULES (Tech Stack)
+```diff
++ FRONTEND: React.js, Next.js, Angular, React Native, TypeScript, Tailwind CSS
++ BACKEND:  Node.js, Express, REST & GraphQL APIs, JWT/OAuth 2.0
++ DATABASE: Azure SQL, PostgreSQL, MySQL, MongoDB, Supabase
++ DEVOPS:   Docker, Git, Vercel, CI/CD Pipelines
